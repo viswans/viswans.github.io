@@ -4,12 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am a masters student studying CS at [Purdue University](http://cs.purdue.edu). 
+I was working as a quantitative developer in Morgan Stanley for 2 years, after completing
+a Dual Degree(B.Tech/M.Tech) in Electrical Engineering from [IIT Madras](www.ee.iitm.ac.in).
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
