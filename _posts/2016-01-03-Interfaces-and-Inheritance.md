@@ -3,7 +3,7 @@ layout: post
 title: Interfaces and Inheritance in JS
 ---
 
-This chapter is really eye opening and mouth-widing for some reasons. It
+This [chapter](http://eloquentjavascript.net/06_object.html) is really eye opening and mouth-widing for some reasons. It
 somehow gives the feeling that I am confused about how to construct solid
 programs in JS. Nevertheless, let me jot down the important points.
 
